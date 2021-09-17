@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rsvps/static/css/main.61d0a6bd.chunk.css",
-    "main.js": "/rsvps/static/js/main.1a24e6f3.chunk.js",
-    "main.js.map": "/rsvps/static/js/main.1a24e6f3.chunk.js.map",
+    "main.js": "/rsvps/static/js/main.3b2d7e7e.chunk.js",
+    "main.js.map": "/rsvps/static/js/main.3b2d7e7e.chunk.js.map",
     "runtime-main.js": "/rsvps/static/js/runtime-main.f5f21d0d.js",
     "runtime-main.js.map": "/rsvps/static/js/runtime-main.f5f21d0d.js.map",
     "static/js/2.2c68d944.chunk.js": "/rsvps/static/js/2.2c68d944.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.f5f21d0d.js",
     "static/js/2.2c68d944.chunk.js",
     "static/css/main.61d0a6bd.chunk.css",
-    "static/js/main.1a24e6f3.chunk.js"
+    "static/js/main.3b2d7e7e.chunk.js"
   ]
 }
