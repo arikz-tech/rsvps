@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rsvps/static/css/main.61d0a6bd.chunk.css",
-    "main.js": "/rsvps/static/js/main.03c47605.chunk.js",
-    "main.js.map": "/rsvps/static/js/main.03c47605.chunk.js.map",
+    "main.js": "/rsvps/static/js/main.9f6223ba.chunk.js",
+    "main.js.map": "/rsvps/static/js/main.9f6223ba.chunk.js.map",
     "runtime-main.js": "/rsvps/static/js/runtime-main.f5f21d0d.js",
     "runtime-main.js.map": "/rsvps/static/js/runtime-main.f5f21d0d.js.map",
-    "static/js/2.2216a125.chunk.js": "/rsvps/static/js/2.2216a125.chunk.js",
-    "static/js/2.2216a125.chunk.js.map": "/rsvps/static/js/2.2216a125.chunk.js.map",
+    "static/js/2.e598404f.chunk.js": "/rsvps/static/js/2.e598404f.chunk.js",
+    "static/js/2.e598404f.chunk.js.map": "/rsvps/static/js/2.e598404f.chunk.js.map",
     "index.html": "/rsvps/index.html",
     "static/css/main.61d0a6bd.chunk.css.map": "/rsvps/static/css/main.61d0a6bd.chunk.css.map",
-    "static/js/2.2216a125.chunk.js.LICENSE.txt": "/rsvps/static/js/2.2216a125.chunk.js.LICENSE.txt",
+    "static/js/2.e598404f.chunk.js.LICENSE.txt": "/rsvps/static/js/2.e598404f.chunk.js.LICENSE.txt",
     "static/media/video.30e003ed.mp4": "/rsvps/static/media/video.30e003ed.mp4",
     "static/media/wedding1.beaaa402.jpg": "/rsvps/static/media/wedding1.beaaa402.jpg",
     "static/media/wedding2.e0870336.jpg": "/rsvps/static/media/wedding2.e0870336.jpg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f5f21d0d.js",
-    "static/js/2.2216a125.chunk.js",
+    "static/js/2.e598404f.chunk.js",
     "static/css/main.61d0a6bd.chunk.css",
-    "static/js/main.03c47605.chunk.js"
+    "static/js/main.9f6223ba.chunk.js"
   ]
 }
